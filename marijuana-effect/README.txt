@@ -45,7 +45,7 @@ LOCAL EXECUTION:
 2) local execution: "python -m http.server 8000"
 
 HOSTED STATIC WEB PAGE:
-go to url "https://lukeyanggb.github.io/"
+go to url "https://yjjtian.github.io/marijuana-effect/"
 ----------------------------------------------------------------------------------
 
 
