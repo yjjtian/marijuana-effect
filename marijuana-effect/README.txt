@@ -15,7 +15,7 @@ education for our web app users.
 
 PACKAGES/FILES:
 
-Web app repository (https://github.gatech.edu/ylu635/marijuana):
+Web app repository (https://github.com/yjjtian/yjjtian.github.io/tree/main/marijuana-effect):
 	css: css files associated with index.html and ml.html.
 	data: data used in data visualization.
 	js: Javascript code for data visualization as well as machine learning predictors
@@ -35,7 +35,7 @@ AWS lambda repository (https://github.gatech.edu/ftian39/marijuana_effects_team_
 ----------------------------------------------------------------------------------
 unzip submitted team047final.zip
 
-(or "git clone https://github.gatech.edu/ylu635/marijuana.git" for web app only)
+(or "git clone https://github.com/yjjtian/yjjtian.github.io" for web app only)
 ----------------------------------------------------------------------------------
 
 3. EXECUTION:
